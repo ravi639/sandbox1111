@@ -375,7 +375,7 @@ body
       height:300px;
       width:450px;
       background:;
-      margin-top: -250px;
+      margin-top:-250px;
       margin-left:600PX;
       padding:;
     }
@@ -397,6 +397,12 @@ body
       font-size: 20px;
       margin-top: 3px;
     }
+    .digital1
+    {
+      padding:px;
+      font-size:12px;
+      padding:-0px;
+    }
 
 
     .cum
@@ -410,10 +416,10 @@ body
     }
     .lineal
     {
-      height:50px;
-      width:50px;
+      height:30px;
+      width:30px;
        margin-left:600PX;
-       margin-top: ;
+       margin-top: 20px;
     }
     .our
     {
@@ -446,7 +452,7 @@ body
       width:500px;
       border-radius:10px;
       margin-left:580px;
-      margin-top: -200PX;
+      margin-top:-200PX;
     }
 
     .info1
@@ -463,8 +469,27 @@ body
 
     .dapi1
     {
-      margin-top:50px;
-      margin-left:-630px;
+      margin-top:10px;
+      margin-left:-620px;
+      font-size:1px;
+    }
+    .dapibus11
+    {
+      margin-left:-700px;
+    }
+     .dapi12
+     {
+        margin-left:-620px;
+        margin-top:100px;
+
+     } 
+
+    .dapi0
+    {
+      margin-top:170px;
+      margin-left:-600px;
+      padding: 0;
+
     }
 
     .about12
